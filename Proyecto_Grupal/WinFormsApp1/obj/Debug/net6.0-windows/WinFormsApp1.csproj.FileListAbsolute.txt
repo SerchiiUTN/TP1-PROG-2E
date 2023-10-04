@@ -1,0 +1,16 @@
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.exe
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.deps.json
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.runtimeconfig.json
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\bin\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.Form1.resources
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.AssemblyInfo.cs
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.dll
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\refint\WinFormsApp1.dll
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.pdb
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\WinFormsApp1.genruntimeconfig.cache
+C:\Users\AdministraGod\Desktop\TP_COMPARTIDO\TP1-PROG-2E\Proyecto_Grupal\WinFormsApp1\obj\Debug\net6.0-windows\ref\WinFormsApp1.dll
